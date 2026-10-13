@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "a04b87032054433f407ec03e",
+  "owner": "ceuytahcswgz",
+  "repo": "page-003b923d36cea27bcf56896d",
+  "title": "clash节点",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "003b923d36cea27bcf56896d",
+      "a": "clash节点",
+      "b": "",
+      "entity": "clash节点",
+      "brand": "clash节点",
+      "separator": "",
+      "path": "index.html",
+      "hash": "7329d3bc13791c280d435aa6ecdf090b645eddcb127fc0c106b369a8a37ac04b",
+      "content": {
+        "keyword1": "clash节点",
+        "keyword2": "",
+        "primary_entity": "clash节点",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "clash节点提供基础版、旗舰版、团队版节点服务，每月流量支持，设备在线加速。官网获取订阅链接，解锁流媒体，IPLC游戏优化。",
+          "AI_DESCRIPTION": "clash节点提供基础版、旗舰版、团队版节点服务，每月流量支持，设备在线加速。官网获取订阅链接，解锁流媒体，IPLC游戏优化。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<style>\nbody {\n  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n  background-color: #f8f5f0;\n  color: #333;\n  margin: 0;\n  padding: 0;\n  line-height: 1.6;\n}\nheader {\n  background: #fff;\n  padding: 1rem;\n  box-shadow: 0 2px 4px rgba(0,0,0,0.1);\n}\nnav {\n  display: flex;\n  justify-content: space-between;\n  align-items: center;\n  max-width: 1200px;\n  margin: 0 auto;\n}\n.logo {\n  font-size: 1.5rem;\n  color: #e07a5f;\n  font-weight: bold;\n}\nmain {\n  max-width: 1200px;\n  margin: 0 auto;\n  padding: 2rem 1rem;\n}\nh1 {\n  color: #e07a5f;\n  text-align: center;\n  font-size: 2.5rem;\n  margin-bottom: 1rem;\n}\nsection {\n  margin-bottom: 3rem;\n}\n.intro-grid {\n  display: grid;\n  grid-template-columns: 1fr 1fr;\n  gap: 2rem;\n  align-items: center;\n}\n@media (max-width: 768px) {\n  .intro-grid {\n    grid-template-columns: 1fr;\n  }\n}\nh2 {\n  color: #e07a5f;\n  border-bottom: 2px solid #e07a5f;\n  padding-bottom: 0.5rem;\n}\np {\n  margin-bottom: 1rem;\n}\nul {\n  padding-left: 1.5rem;\n}\nli {\n  margin-bottom: 0.5rem;\n}\n.features-grid {\n  display: grid;\n  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));\n  gap: 1.5rem;\n}\n@media (max-width: 768px) {\n  .features-grid {\n    grid-template-columns: 1fr;\n  }\n}\n.plan {\n  background: #fff;\n  border: 2px solid #e07a5f;\n  border-radius: 8px;\n  padding: 1.5rem;\n}\n.plan.featured {\n  border-color: #e07a5f;\n  box-shadow: 0 4px 8px rgba(224,122,95,0.2);\n}\n.plan h3 {\n  color: #e07a5f;\n  margin-top: 0;\n}\n.plan p {\n  margin: 0.5rem 0;\n}\n.faq-section {\n}\ndetails {\n  background: #fff;\n  margin-bottom: 1rem;\n  border-radius: 8px;\n  overflow: hidden;\n}\nsummary {\n  padding: 1rem;\n  font-weight: bold;\n  cursor: pointer;\n  background: #f8f5f0;\n}\ndetails[open] summary {\n  background: #e07a5f;\n  color: #fff;\n}\n.answer {\n  padding: 1rem;\n  background: #fff;\n}\nfooter {\n  background: #333;\n  color: #fff;\n  padding: 2rem;\n  text-align: center;\n}\nfooter a {\n  color: #e07a5f;\n  text-decoration: none;\n}\n@media (max-width: 768px) {\n  body { padding: 0 0.5rem; }\n  h1 { font-size: 2rem; }\n}\n</style>\n\n\n<header>\n  <nav>\n    <div class=\"logo\">clash节点</div>\n  </nav>\n</header>\n<main>\n  <h1>clash节点</h1>\n  <section class=\"intro-grid\">\n    <div>\n      <h2>品牌简介</h2>\n      <p>clash节点是基于Clash协议的优质节点加速平台，致力于为用户提供稳定、安全、高速的网络加速服务。通过先进的节点筛选和优化技术，帮助用户轻松突破地理限制，获得流畅的网络体验。</p>\n      <p>无论您是个人用户还是企业团队，我们都提供多种套餐选择，满足不同需求。</p>\n    </div>\n    <div>\n      <h2>使用场景</h2>\n      <ul>\n        <li>解锁国际流媒体平台，如Netflix、YouTube、Disney+</li>\n        <li>游戏加速与低延迟连接</li>\n        <li>科学上网，访问被屏蔽网站</li>\n        <li>企业级网络优化</li>\n        <li>家庭网络共享加速</li>\n      </ul>\n    </div>\n  </section>\n  <section>\n    <h2>操作说明</h2>\n    <h3>如何订阅</h3>\n    <ol>\n      <li>访问官网，选择合适的套餐</li>\n      <li>完成支付后，进入会员中心</li>\n      <li>获取您的专属订阅链接</li>\n      <li>在支持Clash的客户端导入订阅链接</li>\n      <li>选择节点连接即可使用</li>\n    </ol>\n    <h3>支持设备</h3>\n    <p>兼容Windows、macOS、iOS、Android、Linux等主流设备</p>\n  </section>\n  <section class=\"features-grid\">\n    <h2>套餐选择</h2>\n    <div class=\"plan\">\n      <h3>基础版</h3>\n      <p>¥15/月</p>\n      <p>按年付仅需 ¥150/年</p>\n      <ul>\n        <li>每月 100GB 极速流量</li>\n        <li>支持 3 台设备同时在线</li>\n        <li>解锁基础流媒体</li>\n        <li>普通线路节点池</li>\n      </ul>\n    </div>\n    <div class=\"plan featured\">\n      <h3>旗舰版</h3>\n      <p>¥35/月</p>\n      <p>按年付仅需 ¥350/年</p>\n      <ul>\n        <li>每月 300GB 极速流量</li>\n        <li>支持 5 台设备同时在线</li>\n        <li>全节点原生流媒体解锁</li>\n        <li>IPLC 专线游戏加速优化</li>\n        <li>7x24 优先工单支持</li>\n      </ul>\n    </div>\n    <div class=\"plan\">\n      <h3>团队版</h3>\n      <p>¥85/月</p>\n      <p>按年付仅需 ¥850/年</p>\n      <ul>\n        <li>每月 1000GB 极速流量</li>\n        <li>支持 20 台设备同时在线</li>\n        <li>VIP 专属高带宽节点</li>\n        <li>支持企业定制路由</li>\n        <li>专属客户经理服务</li>\n      </ul>\n    </div>\n  </section>\n  <section class=\"faq-section\">\n    <h2>常见问题</h2>\n    <details>\n      <summary>什么是clash节点？</summary>\n      <div class=\"answer\">\n        <p>clash节点是基于Clash协议的网络加速工具，提供高质量的代理节点服务，帮助用户实现科学上网和流媒体解锁。</p>\n      </div>\n    </details>\n    <details>\n      <summary>如何获取clash节点订阅链接？</summary>\n      <div class=\"answer\">\n        <p>在官网选择套餐并完成支付后，即可在会员中心找到您的专属订阅链接。复制后在Clash客户端中导入即可。</p>\n      </div>\n    </details>\n    <details>\n      <summary>支持哪些设备？</summary>\n      <div class=\"answer\">\n        <p>clash节点兼容Clash客户端，支持Windows、macOS、iOS、Android和Linux等主流平台。</p>\n      </div>\n    </details>\n    <details>\n      <summary>节点速度和稳定性如何？</summary>\n      <div class=\"answer\">\n        <p>基础版提供普通节点池，旗舰版采用IPLC专线优化，团队版有VIP高带宽节点，速度和稳定性均有保障。</p>\n      </div>\n    </details>\n    <details>\n      <summary>流量超出后怎么办？</summary>\n      <div class=\"answer\">\n        <p>每月流量包，超出部分可能限速或自动升级至更高套餐。请及时续费以保证正常使用。</p>\n      </div>\n    </details>\n    <details>\n      <summary>售后服务如何？</summary>\n      <div class=\"answer\">\n        <p>旗舰版及以上提供7x24工单支持，团队版有专属客户经理，快速响应您的需求。</p>\n      </div>\n    </details>\n  </section>\n<section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n<footer>\n  <p>© 2024 clash节点. 所有权利保留。</p>\n  <p>友情链接: <a href=\"#\">机场导航</a> | <a href=\"#\">VPN加速</a></p>\n  <p>广告位: 欢迎合作 <a href=\"#\">联系我们</a></p>\n</footer>\n\n",
+          "hash": "c6b43b647f3c13e705ab76804a1d699d636d632ca3abb8ab68336dab33c56060",
+          "seo": {
+            "title": "clash节点 - 优质节点加速器 | 官网下载订阅",
+            "keywords": "clash节点,节点加速,机场,梯子,vpn加速,clash客户端,节点订阅,官方下载",
+            "description": "clash节点提供基础版、旗舰版、团队版节点服务，每月流量支持，设备在线加速。官网获取订阅链接，解锁流媒体，IPLC游戏优化。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "6jtw1rs.cn",
+    "host": "p-afbe7dca67.6jtw1rs.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "fac18dc28c969705f3cfa78c3cc6bb59e5716e507f7bc24d8a2b7423e15dce2d",
+    "sitemap.xml": "e607ee7a67e2eae86be4a82974a37af7fbeda589620cf598796666c7494aee99",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9e3862c30a2f2bf36dd703ca9cef8cda1e948bca183e684306c3c6f67e7c0bec",
+    "robots.txt": "1d1c68774f5ca207d91818d492cc06ce4d62d45b0641f728363ad0a34a10be9b",
+    "43df2f4152241b149545450b0fc31de3.txt": "7625d8dff58b684cbc17f74477dc52b9b8102a20a5b255393da20c6fc26b3ec4"
+  },
+  "revision": "3fb5b17400bf644ac57fa72ff4c4b8c404dea9fee64d4060399b85efa77960c9"
+}
